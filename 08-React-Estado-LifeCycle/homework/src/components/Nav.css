@@ -1,0 +1,10 @@
+    #logoHenry {
+        margin-right: 20px;
+    }
+    
+    #barraNav {
+        background-color: rgba(211, 211, 211, 0.685);
+        color: black;
+        text-align: left;
+        display: flex;
+    }

@@ -1,0 +1,12 @@
+.searchBar {
+    justify-content: flex-end;
+    display: flex;
+}
+
+#searchButton {
+    margin-left: 5px;
+}
+
+#inputSearch {
+    padding: 10px;
+}

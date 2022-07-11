@@ -1,0 +1,20 @@
+// Mixins acá
+
+.flex(@direction, @justify, @align) {
+    display: flex;
+    flex-direction: @direction;
+    justify-content: @justify;
+    align-items: @align;
+}
+
+.btn(@color, @border, @background) {
+    font-size: 15px;
+    // font-weight: 600;
+    border-radius: @border;
+    background-color: @background;
+    color: @color;
+    border: 1px solid black;
+    padding: 10px;
+    display: inline-block;
+    cursor: pointer;
+}

@@ -1,0 +1,13 @@
+.containerClass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 5%;
+}
+
+.mainCity {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
